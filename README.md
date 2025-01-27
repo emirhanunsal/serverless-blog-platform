@@ -1,4 +1,4 @@
-# Static Blog Platform
+# Serverless Static Blog Platform
 
 This is a blog platform I built to learn the basics of serverless architecture using AWS services. The primary goal of this project was to deepen my understanding of integrating AWS S3, DynamoDB, API Gateway, and Lambda in a real-world application. It helped me practice backend and serverless concepts while building a functional and responsive blog platform.
 
